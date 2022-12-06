@@ -11,6 +11,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-adicionei o changelog.md
-added changelog.md
+- adicionei o changelog.md
+- added changelog.md
 
+## [0.0.2] - 2022-12-04
+
+### Removed
+
+- apaguei os dois arquivos
+- sera.txt and arquivo.txt was removed
